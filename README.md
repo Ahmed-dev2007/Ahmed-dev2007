@@ -1,3 +1,11 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-dev2007&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed-dev2007" />
+</p>
+
+
+###
+
+
 <h2 align="left">Hi 👋! My name is Muhammad Ahmed and I'm a Front-End developer, from Pakistan</h2>
 
 ###
