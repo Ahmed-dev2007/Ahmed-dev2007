@@ -5,6 +5,10 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ahmed-dev2007/Ahmed-dev2007/main/banner.jfif.png" alt="Muhammad Ahmed"  />
+</div>
+
 
 <h2 align="left">Hi 👋! My name is Muhammad Ahmed and I'm a Front-End developer, from Pakistan</h2>
 
